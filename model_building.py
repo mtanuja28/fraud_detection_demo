@@ -1,0 +1,1 @@
+print("All model related code is written here")
